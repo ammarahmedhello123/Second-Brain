@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20260311.md",
+                "file": "Programming/Go/01 Basics/Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260311"
+              "title": "Hello World"
+            }
+          },
+          {
+            "id": "f5bc07f147c7e779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Go/01 Basics/Hello World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello World"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +226,11 @@
       "workout-planner:Create workout log": false
     }
   },
-  "active": "5b3b4e1893864f01",
+  "active": "f5bc07f147c7e779",
   "lastOpenFiles": [
+    "06 - Daily/20260311.md",
+    "Programming/Go/01 Basics/Hello World.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "Workout Templates/exercise-page.md",
     "Workout Templates/Muscle Tags Reference.md",
     "The gym examples/Dashboard.md",
@@ -221,7 +238,6 @@
     "The gym examples/Workouts/Day 1 LOWER BODY A 2.0.md",
     "The gym examples/Feature Showcase.md",
     "The gym examples/Getting Started.md",
-    "06 - Daily/20260311.md",
     "The gym examples/Log/workout_logs.csv",
     "The gym examples/Exercises/Calf Machine.md",
     "The gym examples/Exercises/Leg Curl Seated.md",
@@ -242,10 +258,8 @@
     "theGYM/Log",
     "theGYM",
     "Workout Templates",
-    "Programming/Go/01 Basics/Hello World.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "06 - Daily/20260310.md",
     "Soda/Sunday, March 8, 2026..md",
     "Soda/Untitled.md",
