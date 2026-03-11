@@ -32,4 +32,3 @@ This Go program prints **"Hello World!"** to the console. It demonstrates the ba
 - This example shows the minimal working Go program structure.  
 - Perfect for beginners to understand program flow and basic I/O in Go.
 
-From mobile

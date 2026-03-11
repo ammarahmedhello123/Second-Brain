@@ -11,5 +11,20 @@
   "propertiesInDocument": "visible",
   "autoPairBrackets": false,
   "readableLineLength": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:configure-toolbar"
+  ]
 }
