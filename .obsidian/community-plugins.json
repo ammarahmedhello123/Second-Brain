@@ -14,12 +14,12 @@
   "homepage",
   "fold-properties-by-default",
   "typing-speed",
-  "obsidian-icon-folder",
   "templater-obsidian",
   "settings-search",
   "code-styler",
   "customizable-menu",
   "workout-planner",
   "obsidian-git",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-icon-folder"
 ]
