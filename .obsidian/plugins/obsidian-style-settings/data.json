@@ -1,0 +1,23 @@
+{
+  "baseline-style@@font-text-override": "SF Pro Text ",
+  "baseline-style@@active-line-style": "active-line-block",
+  "baseline-style@@active-line-color": "active-line-color-default",
+  "baseline-style@@font-interface-override": "Inter",
+  "baseline-style@@accented-interface": false,
+  "baseline-style@@background-contrast-light": "contrast-light",
+  "baseline-style@@layout-style": "layout-macos",
+  "baseline-style@@element-style": "input-baseline",
+  "baseline-style@@status-bar-style": "status-bar-baseline",
+  "baseline-style@@anim-motion-baseline": "cubic-bezier(0.1, 0, 0.1, 1.25)",
+  "baseline-style@@tab-style": "tab-underline-accented",
+  "baseline-style@@tab-divider": false,
+  "baseline-style@@tab-full-width": false,
+  "baseline-style@@file-header-visibility": "view-header-title-hover",
+  "baseline-style@@file-header-justify": "center",
+  "baseline-style@@hide-vault-switcher-off": false,
+  "baseline-style@@hover-sidedock": false,
+  "baseline-style@@nav-item-active-style": "nav-item-baseline",
+  "baseline-style@@colorful-folders": "colorful-folders-off",
+  "baseline-style@@large-new-note": false,
+  "baseline-style@@plugins-grid-off": false
+}

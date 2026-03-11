@@ -1,0 +1,4 @@
+/* Removes the 'New Tab' plus button from the top bar */
+.mod-root .workspace-tab-header-new-tab {
+    display: none;
+}

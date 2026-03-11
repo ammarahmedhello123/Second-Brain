@@ -1,0 +1,4 @@
+/* Removes indentation lines from the file explorer */
+.nav-folder-children {
+    border-left: none !important;
+}

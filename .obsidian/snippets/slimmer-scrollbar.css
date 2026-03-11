@@ -1,0 +1,9 @@
+/* Makes scrollbars thin and subtle */
+::-webkit-scrollbar {
+    width: 4px !important;
+    height: 4px !important;
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-bg) !important;
+    border-radius: 10px !important;
+}

@@ -1,0 +1,24 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#37c2ed",
+  "interfaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "textFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "CyanVoxel's General Tweaks",
+    "Japanese Font Support",
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "slimmer-scrollbar",
+    "hide-new-tab",
+    "vaultname-tweaks",
+    "status-bar-glass",
+    "hover-ribbon",
+    "folder-file-pop",
+    "hide-folder-info",
+    "hide-indentation"
+  ],
+  "showRibbon": false
+}

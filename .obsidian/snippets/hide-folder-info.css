@@ -1,0 +1,6 @@
+.nav-folder-title .tree-item-flair,
+.nav-folder-title-content + *,
+.tooltip,
+[class*="flair"] {
+    display: none !important;
+}

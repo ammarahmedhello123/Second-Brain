@@ -1,0 +1,15 @@
+/* Highlights the file/folder you are hovering over */
+.nav-file-title:hover, .nav-folder-title:hover {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    transition: background-color 0.1s !important;
+    border-radius: 4px !important;
+}
+
+/* Breathing room */
+.nav-files-container {
+    margin-left: 14px !important;
+}
+
+.nav-header {
+    margin-left: 14px !important;
+}
