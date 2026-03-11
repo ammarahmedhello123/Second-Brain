@@ -160,8 +160,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -181,7 +181,8 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "workout-planner:Create workout log": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false
     }
   },
   "active": "3694665376ddda65",

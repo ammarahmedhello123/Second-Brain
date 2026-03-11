@@ -4,10 +4,8 @@
   "obsidian-style-settings",
   "sourcemode-styling",
   "obsidian-smart-typography",
-  "obsidian-advanced-slides",
   "better-word-count",
   "calendar",
-  "obsidian-completr",
   "obsidian-doubleshift",
   "dynamic-outline",
   "url-into-selection",
@@ -22,5 +20,6 @@
   "code-styler",
   "customizable-menu",
   "workout-planner",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-update-tracker"
 ]
