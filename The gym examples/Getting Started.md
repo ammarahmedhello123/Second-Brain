@@ -6,7 +6,7 @@ Welcome! This folder contains example files to help you learn all the features.
 
 | File/Folder | Description |
 |-------------|-------------|
-| [[Dashboard]] | Your workout stats at a glance |
+| [[The gym examples/Dashboard]] | Your workout stats at a glance |
 | [[Feature Showcase]] | Complete reference of all code blocks |
 | **Exercises/** | Example exercise pages with logs and charts |
 | **Workouts/** | Example workout templates |
@@ -22,7 +22,7 @@ Use these commands (Ctrl/Cmd + P):
 
 ## Next Steps
 
-1. Open [[Dashboard]] to see your stats
+1. Open [[The gym examples/Dashboard]] to see your stats
 2. Check [[Feature Showcase]] to learn all available features
 3. Try a workout from the **Workouts** folder
 4. Create your own exercises in **Exercises**

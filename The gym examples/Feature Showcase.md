@@ -2,7 +2,7 @@
 
 Complete reference of all code block types available in the Workout Plugin.
 
-> **Tip**: For your personal dashboard, see [[Dashboard]]
+> **Tip**: For your personal dashboard, see [[The gym examples/Dashboard]]
 
 ---
 
