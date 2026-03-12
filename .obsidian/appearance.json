@@ -14,10 +14,10 @@
     "status-bar-glass",
     "folder-file-pop",
     "hide-folder-info",
-    "hide-new-tab",
     "CyanVoxel's General Tweaks",
     "heatmap-style",
-    "hide-indentation"
+    "hide-indentation",
+    "hide-new-tab"
   ],
   "showRibbon": false,
   "showViewHeader": true
