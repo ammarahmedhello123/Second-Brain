@@ -10,7 +10,7 @@ Track your Straight Bar Bicep Curl performance over time. Log each set with weig
 ## Log
 
 ```workout-log
-id: bf4b49d42500
+id: a3224ae74d72
 exercise: Straight Bar Bicep Curl
 limit: 15
 ```

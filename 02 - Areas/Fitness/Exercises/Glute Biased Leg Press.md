@@ -1,6 +1,8 @@
 ---
 tags:
   - glutes
+  - hamstrings
+  - quads
 ---
 # Glute Biased Leg Press
 
@@ -10,7 +12,7 @@ Track your Glute Biased Leg Press performance over time. Log each set with weigh
 ## Log
 
 ```workout-log
-id: 1f868c8ea394
+id: 001456dcd8c9
 exercise: Glute Biased Leg Press
 limit: 15
 ```

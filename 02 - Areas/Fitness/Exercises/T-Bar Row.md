@@ -1,6 +1,8 @@
 ---
 tags:
   - back
+  - biceps
+  - traps
 ---
 # T-Bar Row
 
@@ -10,7 +12,7 @@ Track your T-Bar Row performance over time. Log each set with weight and reps to
 ## Log
 
 ```workout-log
-id: 0906c27d6473
+id: 6c48926ccd1f
 exercise: T-Bar Row
 limit: 15
 ```

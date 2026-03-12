@@ -1,6 +1,8 @@
 ---
 tags:
   - back
+  - biceps
+  - rear_delts
 ---
 # Seated Chest Supported Row
 
@@ -10,7 +12,7 @@ Track your Seated Chest Supported Row performance over time. Log each set with w
 ## Log
 
 ```workout-log
-id: 766b44d528a0
+id: 0c53aae3eaab
 exercise: Seated Chest Supported Row
 limit: 15
 ```

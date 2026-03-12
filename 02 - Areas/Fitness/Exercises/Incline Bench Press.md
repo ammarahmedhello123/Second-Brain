@@ -1,6 +1,8 @@
 ---
 tags:
   - chest
+  - shoulders
+  - triceps
 ---
 # Incline Bench Press
 
@@ -10,7 +12,7 @@ Track your Incline Bench Press performance over time. Log each set with weight a
 ## Log
 
 ```workout-log
-id: 212cfe6b4f19
+id: 36228e676443
 exercise: Incline Bench Press
 limit: 15
 ```

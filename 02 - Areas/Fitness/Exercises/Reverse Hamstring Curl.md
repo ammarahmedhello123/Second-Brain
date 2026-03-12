@@ -10,7 +10,7 @@ Track your Reverse Hamstring Curl performance over time. Log each set with weigh
 ## Log
 
 ```workout-log
-id: a28af5bda1fa
+id: f1c3f6455df7
 exercise: Reverse Hamstring Curl
 limit: 15
 ```

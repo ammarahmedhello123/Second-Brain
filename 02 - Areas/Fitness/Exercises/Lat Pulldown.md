@@ -1,6 +1,7 @@
 ---
 tags:
   - back
+  - biceps
 ---
 # Lat Pulldown
 
@@ -10,7 +11,7 @@ Track your Lat Pulldown performance over time. Log each set with weight and reps
 ## Log
 
 ```workout-log
-id: 13f73efdcff9
+id: 14ea6bd4a6d9
 exercise: Lat Pulldown
 limit: 15
 ```

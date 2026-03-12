@@ -10,7 +10,7 @@ Track your Pec Deck Fly performance over time. Log each set with weight and reps
 ## Log
 
 ```workout-log
-id: 0f3df47a579c
+id: 0e57382d679c
 exercise: Pec Deck Fly
 limit: 15
 ```

@@ -1,6 +1,9 @@
 ---
 tags:
   - quads
+  - glutes
+  - hamstrings
+  - core
 ---
 # Squat
 
@@ -10,7 +13,7 @@ Track your Squat performance over time. Log each set with weight and reps to mon
 ## Log
 
 ```workout-log
-id: 1aa9f83535e6
+id: a36c32cdbe41
 exercise: Squat
 limit: 15
 ```

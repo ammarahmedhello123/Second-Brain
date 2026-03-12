@@ -1,6 +1,7 @@
 ---
 tags:
   - rear_delts
+  - traps
 ---
 # Reverse Pec Deck Fly
 
@@ -10,7 +11,7 @@ Track your Reverse Pec Deck Fly performance over time. Log each set with weight 
 ## Log
 
 ```workout-log
-id: 3dedab1ad369
+id: 385f5ba85456
 exercise: Reverse Pec Deck Fly
 limit: 15
 ```

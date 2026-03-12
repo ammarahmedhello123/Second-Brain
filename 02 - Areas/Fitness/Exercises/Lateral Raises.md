@@ -10,7 +10,7 @@ Track your Lateral Raises performance over time. Log each set with weight and re
 ## Log
 
 ```workout-log
-id: 109abf92dcd7
+id: c362dad3a82b
 exercise: Lateral Raises
 limit: 15
 ```

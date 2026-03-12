@@ -10,7 +10,7 @@ Track your Leg Extension performance over time. Log each set with weight and rep
 ## Log
 
 ```workout-log
-id: 5acec1d03491
+id: 2f96fd2e61d3
 exercise: Leg Extension
 limit: 15
 ```

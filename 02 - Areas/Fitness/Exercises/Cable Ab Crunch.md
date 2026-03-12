@@ -10,7 +10,7 @@ Track your Cable Ab Crunch performance over time. Log each set with weight and r
 ## Log
 
 ```workout-log
-id: fba7566d176c
+id: 14535d1e63ce
 exercise: Cable Ab Crunch
 limit: 15
 ```

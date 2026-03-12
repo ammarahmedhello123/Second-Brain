@@ -1,6 +1,7 @@
 ---
 tags:
   - hamstrings
+  - glutes
 ---
 # Hamstring Biased Leg Press
 
@@ -10,7 +11,7 @@ Track your Hamstring Biased Leg Press performance over time. Log each set with w
 ## Log
 
 ```workout-log
-id: 377e622b1093
+id: d239fc9a6838
 exercise: Hamstring Biased Leg Press
 limit: 15
 ```

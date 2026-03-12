@@ -1,6 +1,8 @@
 ---
 tags:
   - shoulders
+  - triceps
+  - traps
 ---
 # Shoulder Press
 
@@ -10,7 +12,7 @@ Track your Shoulder Press performance over time. Log each set with weight and re
 ## Log
 
 ```workout-log
-id: acd3538e080e
+id: 830af7cc2483
 exercise: Shoulder Press
 limit: 15
 ```
