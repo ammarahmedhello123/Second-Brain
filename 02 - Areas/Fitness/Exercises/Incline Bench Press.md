@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - chest
 ---
 # Incline Bench Press
 
@@ -9,7 +10,7 @@ Track your Incline Bench Press performance over time. Log each set with weight a
 ## Log
 
 ```workout-log
-id: 212075046d3d
+id: 212cfe6b4f19
 exercise: Incline Bench Press
 limit: 15
 ```

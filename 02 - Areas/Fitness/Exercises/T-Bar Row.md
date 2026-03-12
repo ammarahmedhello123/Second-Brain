@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - back
 ---
 # T-Bar Row
 
@@ -9,7 +10,7 @@ Track your T-Bar Row performance over time. Log each set with weight and reps to
 ## Log
 
 ```workout-log
-id: 6027e8ca8a39
+id: 0906c27d6473
 exercise: T-Bar Row
 limit: 15
 ```

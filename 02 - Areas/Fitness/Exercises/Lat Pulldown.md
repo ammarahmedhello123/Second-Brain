@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - back
 ---
 # Lat Pulldown
 
@@ -9,7 +10,7 @@ Track your Lat Pulldown performance over time. Log each set with weight and reps
 ## Log
 
 ```workout-log
-id: 77a296e4c025
+id: 13f73efdcff9
 exercise: Lat Pulldown
 limit: 15
 ```

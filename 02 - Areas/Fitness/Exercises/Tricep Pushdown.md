@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - triceps
 ---
 # Tricep Pushdown
 
@@ -9,7 +10,7 @@ Track your Tricep Pushdown performance over time. Log each set with weight and r
 ## Log
 
 ```workout-log
-id: ca38b56839ca
+id: ca57e9a10a24
 exercise: Tricep Pushdown
 limit: 15
 ```

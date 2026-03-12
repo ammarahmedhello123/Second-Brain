@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - triceps
 ---
 # Tricep Extension
 
@@ -9,7 +10,7 @@ Track your Tricep Extension performance over time. Log each set with weight and 
 ## Log
 
 ```workout-log
-id: 60377e23a92f
+id: 0aafbb9625ef
 exercise: Tricep Extension
 limit: 15
 ```

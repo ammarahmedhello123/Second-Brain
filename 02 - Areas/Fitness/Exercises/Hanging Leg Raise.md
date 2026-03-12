@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - abs
 ---
 # Hanging Leg Raise
 
@@ -9,7 +10,7 @@ Track your Hanging Leg Raise performance over time. Log each set with weight and
 ## Log
 
 ```workout-log
-id: d449848c01b9
+id: 127f3c2a372e
 exercise: Hanging Leg Raise
 limit: 15
 ```

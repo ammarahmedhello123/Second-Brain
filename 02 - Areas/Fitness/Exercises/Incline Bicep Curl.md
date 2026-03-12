@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - biceps
 ---
 # Incline Bicep Curl
 
@@ -9,7 +10,7 @@ Track your Incline Bicep Curl performance over time. Log each set with weight an
 ## Log
 
 ```workout-log
-id: 54d4714b3d9a
+id: a6cdbaf7d9e8
 exercise: Incline Bicep Curl
 limit: 15
 ```

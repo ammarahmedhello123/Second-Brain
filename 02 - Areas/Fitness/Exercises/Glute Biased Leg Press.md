@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - glutes
 ---
 # Glute Biased Leg Press
 
@@ -9,7 +10,7 @@ Track your Glute Biased Leg Press performance over time. Log each set with weigh
 ## Log
 
 ```workout-log
-id: 545a6d4bc7f5
+id: 1f868c8ea394
 exercise: Glute Biased Leg Press
 limit: 15
 ```

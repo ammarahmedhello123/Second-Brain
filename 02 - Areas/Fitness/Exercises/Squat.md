@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - quads
 ---
 # Squat
 
@@ -9,7 +10,7 @@ Track your Squat performance over time. Log each set with weight and reps to mon
 ## Log
 
 ```workout-log
-id: 374aac17259a
+id: 1aa9f83535e6
 exercise: Squat
 limit: 15
 ```

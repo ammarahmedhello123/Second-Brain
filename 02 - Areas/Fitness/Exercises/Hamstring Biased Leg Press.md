@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - hamstrings
 ---
 # Hamstring Biased Leg Press
 
@@ -9,7 +10,7 @@ Track your Hamstring Biased Leg Press performance over time. Log each set with w
 ## Log
 
 ```workout-log
-id: 82bab9e26bb6
+id: 377e622b1093
 exercise: Hamstring Biased Leg Press
 limit: 15
 ```

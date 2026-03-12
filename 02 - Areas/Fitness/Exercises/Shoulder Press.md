@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - shoulders
 ---
 # Shoulder Press
 
@@ -9,7 +10,7 @@ Track your Shoulder Press performance over time. Log each set with weight and re
 ## Log
 
 ```workout-log
-id: c4357c6a9d98
+id: acd3538e080e
 exercise: Shoulder Press
 limit: 15
 ```

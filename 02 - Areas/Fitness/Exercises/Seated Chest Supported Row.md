@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - back
 ---
 # Seated Chest Supported Row
 
@@ -9,7 +10,7 @@ Track your Seated Chest Supported Row performance over time. Log each set with w
 ## Log
 
 ```workout-log
-id: 53889e8c4f8f
+id: 766b44d528a0
 exercise: Seated Chest Supported Row
 limit: 15
 ```

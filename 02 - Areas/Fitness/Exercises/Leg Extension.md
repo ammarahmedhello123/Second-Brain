@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - quads
 ---
 # Leg Extension
 
@@ -9,7 +10,7 @@ Track your Leg Extension performance over time. Log each set with weight and rep
 ## Log
 
 ```workout-log
-id: c216fe00598d
+id: 5acec1d03491
 exercise: Leg Extension
 limit: 15
 ```

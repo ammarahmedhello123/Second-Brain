@@ -1,5 +1,6 @@
 ---
-exercise_type: strength
+tags:
+  - shoulders
 ---
 # Lateral Raises
 
@@ -9,7 +10,7 @@ Track your Lateral Raises performance over time. Log each set with weight and re
 ## Log
 
 ```workout-log
-id: 252238ec245e
+id: 109abf92dcd7
 exercise: Lateral Raises
 limit: 15
 ```
