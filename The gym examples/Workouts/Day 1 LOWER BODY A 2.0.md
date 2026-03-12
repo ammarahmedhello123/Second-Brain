@@ -21,6 +21,7 @@ showStats: true
 **Note: push hard**
 
 ```workout-timer
+id: mmn7143d2p7ie
 duration: 180
 type: countdown
 exercise: Hip Thrust
@@ -41,6 +42,7 @@ exactMatch: true
 ### 4 sets x 8-12 reps (Recovery: 180s)
 
 ```workout-timer
+id: mmn7143dzm39u
 duration: 180
 type: countdown
 exercise: RDL
@@ -61,6 +63,7 @@ exactMatch: true
 ### 4 sets x 10-15 reps (Recovery: 120s)
 
 ```workout-timer
+id: mmn7143dedr14
 duration: 120
 type: countdown
 exercise: Hack squat
@@ -81,6 +84,7 @@ exactMatch: true
 ### 3 sets x 10-15 reps (Recovery: 90s)
 
 ```workout-timer
+id: mmn7143defdpz
 duration: 90
 type: countdown
 exercise: Leg Curl Sdraiato
@@ -101,6 +105,7 @@ exactMatch: true
 ### 4 sets x 15-20 reps (Recovery: 60s)
 
 ```workout-timer
+id: mmn7143du5gdl
 duration: 60
 type: countdown
 exercise: Calf Machine

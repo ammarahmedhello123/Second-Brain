@@ -10,6 +10,7 @@ High-Intensity Interval Training workout with interval timers and cardio trackin
 ## Warm-up (5 min)
 
 ```workout-timer
+id: mmn7143by3i98
 duration: 300
 type: countdown
 exercise: Warm-up
@@ -22,6 +23,7 @@ sound: true
 ## Sprint Intervals (30s × 8 rounds)
 
 ```workout-timer
+id: mmn7143bhnezi
 duration: 30
 rounds: 8
 type: interval

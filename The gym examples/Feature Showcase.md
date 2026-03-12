@@ -135,6 +135,7 @@ exactMatch: true
 ### Countdown Timer
 
 ```workout-timer
+id: mmn7141mik9np
 duration: 90
 type: countdown
 exercise: Rest Timer
@@ -145,6 +146,7 @@ sound: true
 ### Interval Timer
 
 ```workout-timer
+id: mmn7141mz80h9
 duration: 30
 rounds: 5
 type: interval
