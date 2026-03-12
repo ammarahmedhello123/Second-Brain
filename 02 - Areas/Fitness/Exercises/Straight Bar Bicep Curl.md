@@ -1,22 +1,13 @@
----
-exercise_name: Squat Multi Power
-exercise_type: strength
-tags:
-  - legs
-  - quads
----
-
-# Squat Multi Power
+# Straight Bar Bicep Curl
 
 ## Description
-
-Example description for Squat Multi Power.
+Track your Straight Bar Bicep Curl performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gyvwpibc
-exercise: Squat Multi Power
+id: 7d8853ad1cf2
+exercise: Straight Bar Bicep Curl
 limit: 15
 ```
 
@@ -25,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Squat Multi Power
+exercise: Straight Bar Bicep Curl
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -38,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Squat Multi Power
+exercise: Straight Bar Bicep Curl
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -51,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Squat Multi Power
+exercise: Straight Bar Bicep Curl
 dateRange: 30
 limit: 50
 showTrendLine: false

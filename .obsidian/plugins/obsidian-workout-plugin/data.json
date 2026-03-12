@@ -1,6 +1,6 @@
 {
   "csvLogFilePath": "02 - Areas/Fitness/Log/workout_logs.csv",
-  "exerciseFolderPath": "02 - Areas/Fitness/Exercise",
+  "exerciseFolderPath": "02 - Areas/Fitness/Exercises",
   "defaultExercise": "",
   "chartType": "volume",
   "dateRange": 30,

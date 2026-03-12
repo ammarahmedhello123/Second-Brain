@@ -1,22 +1,13 @@
----
-exercise_name: Calf Machine
-exercise_type: strength
-tags:
-  - legs
-  - calves
----
-
-# Calf Machine
+# Hanging Leg Raise
 
 ## Description
-
-Example description for Calf Machine.
+Track your Hanging Leg Raise performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gz6l6aqr
-exercise: Calf Machine
+id: d449848c01b9
+exercise: Hanging Leg Raise
 limit: 15
 ```
 
@@ -25,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Calf Machine
+exercise: Hanging Leg Raise
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -38,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Calf Machine
+exercise: Hanging Leg Raise
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -51,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Calf Machine
+exercise: Hanging Leg Raise
 dateRange: 30
 limit: 50
 showTrendLine: false

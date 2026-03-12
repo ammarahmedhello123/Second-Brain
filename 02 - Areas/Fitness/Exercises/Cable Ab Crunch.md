@@ -1,23 +1,13 @@
----
-exercise_name: Squat
-exercise_type: strength
-tags:
-  - legs
-  - quads
-  - glutes
----
-
-# Squat
+# Cable Ab Crunch
 
 ## Description
-
-Example description for Squat.
+Track your Cable Ab Crunch performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gydhari8
-exercise: Squat
+id: 152e46696f23
+exercise: Cable Ab Crunch
 limit: 15
 ```
 
@@ -26,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Squat
+exercise: Cable Ab Crunch
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -39,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Squat
+exercise: Cable Ab Crunch
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -52,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Squat
+exercise: Cable Ab Crunch
 dateRange: 30
 limit: 50
 showTrendLine: false

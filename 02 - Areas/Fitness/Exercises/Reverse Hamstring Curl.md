@@ -1,23 +1,13 @@
----
-exercise_name: Bench Press
-exercise_type: strength
-tags:
-  - chest
-  - triceps
-  - shoulders
----
-
-# Bench Press
+# Reverse Hamstring Curl
 
 ## Description
-
-Example description for Bench Press.
+Track your Reverse Hamstring Curl performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gy7zmwhn
-exercise: Bench Press
+id: 89e60b9a30fb
+exercise: Reverse Hamstring Curl
 limit: 15
 ```
 
@@ -26,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Bench Press
+exercise: Reverse Hamstring Curl
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -39,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Bench Press
+exercise: Reverse Hamstring Curl
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -52,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Bench Press
+exercise: Reverse Hamstring Curl
 dateRange: 30
 limit: 50
 showTrendLine: false

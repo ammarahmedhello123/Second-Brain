@@ -1,22 +1,13 @@
----
-exercise_name: Leg Curl Seated
-exercise_type: strength
-tags:
-  - legs
-  - hamstrings
----
-
-# Leg Curl Seated
+# Pec Deck Fly
 
 ## Description
-
-Example description for Leg Curl Seated.
+Track your Pec Deck Fly performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gz3xs79a
-exercise: Leg Curl Seated
+id: 387f2377fb8b
+exercise: Pec Deck Fly
 limit: 15
 ```
 
@@ -25,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Leg Curl Seated
+exercise: Pec Deck Fly
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -38,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Leg Curl Seated
+exercise: Pec Deck Fly
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -51,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Leg Curl Seated
+exercise: Pec Deck Fly
 dateRange: 30
 limit: 50
 showTrendLine: false

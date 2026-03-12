@@ -1,22 +1,13 @@
----
-exercise_name: Leg Press 45
-exercise_type: strength
-tags:
-  - legs
-  - quads
----
-
-# Leg Press 45
+# T-Bar Row
 
 ## Description
-
-Example description for Leg Press 45.
+Track your T-Bar Row performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gz145h1t
-exercise: Leg Press 45
+id: 6027e8ca8a39
+exercise: T-Bar Row
 limit: 15
 ```
 
@@ -25,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Leg Press 45
+exercise: T-Bar Row
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -38,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Leg Press 45
+exercise: T-Bar Row
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -51,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Leg Press 45
+exercise: T-Bar Row
 dateRange: 30
 limit: 50
 showTrendLine: false

@@ -1,23 +1,13 @@
----
-exercise_name: RDL
-exercise_type: strength
-tags:
-  - legs
-  - hamstrings
-  - glutes
----
-
-# RDL
+# Tricep Pushdown
 
 ## Description
-
-Example description for RDL.
+Track your Tricep Pushdown performance over time. Log each set with weight and reps to monitor progression.
 
 ## Log
 
 ```workout-log
-id: mmm70gyy9obud
-exercise: RDL
+id: ca38b56839ca
+exercise: Tricep Pushdown
 limit: 15
 ```
 
@@ -26,7 +16,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: RDL
+exercise: Tricep Pushdown
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -39,7 +29,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: RDL
+exercise: Tricep Pushdown
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -52,7 +42,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: RDL
+exercise: Tricep Pushdown
 dateRange: 30
 limit: 50
 showTrendLine: false
