@@ -15,8 +15,10 @@ const calendarData = {
 }
 
 for (let page of dv.pages('"02 - Areas/Fitness"').where(p => p.tags && p.tags.includes("workout"))) {
+    const name = page.file.name
+    const date = name.slice(0, 4) + "-" + name.slice(4, 6) + "-" + name.slice(6, 8)
     calendarData.entries.push({
-        date: page.date,
+        date: date,
         intensity: page.felt ?? 4,
         color: "orange",
     })
@@ -40,8 +42,10 @@ const calendarData = {
 }
 
 for (let page of dv.pages('"06 - Daily"')) {
+    const name = page.file.name
+    const date = name.slice(0, 4) + "-" + name.slice(4, 6) + "-" + name.slice(6, 8)
     calendarData.entries.push({
-        date: page.file.name,
+        date: date,
         intensity: 4,
         color: "blue",
     })
