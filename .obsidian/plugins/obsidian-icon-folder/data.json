@@ -73,6 +73,12 @@
         "icon": "BoBxlGoLang",
         "for": "everything",
         "order": 10
+      },
+      {
+        "rule": "Fitness.*",
+        "icon": "BoBxDumbbell",
+        "for": "everything",
+        "order": 11
       }
     ],
     "extraMargin": {
