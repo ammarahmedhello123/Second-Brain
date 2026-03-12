@@ -86,5 +86,9 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
+  },
+  "02 - Areas/Fitness": {
+    "iconName": null,
+    "inheritanceIcon": "BoBxDumbbell"
   }
 }
