@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Seated Chest Supported Row
 
 ## Description

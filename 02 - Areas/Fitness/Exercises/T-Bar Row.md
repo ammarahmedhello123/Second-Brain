@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # T-Bar Row
 
 ## Description

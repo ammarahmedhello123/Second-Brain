@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Tricep Extension
 
 ## Description

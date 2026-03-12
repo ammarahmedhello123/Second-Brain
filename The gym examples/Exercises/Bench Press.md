@@ -1,16 +1,23 @@
 ---
+exercise_name: Bench Press
 exercise_type: strength
+tags:
+  - chest
+  - triceps
+  - shoulders
 ---
-# Shoulder Press
+
+# Bench Press
 
 ## Description
-Track your Shoulder Press performance over time. Log each set with weight and reps to monitor progression.
+
+Example description for Bench Press.
 
 ## Log
 
 ```workout-log
-id: c4357c6a9d98
-exercise: Shoulder Press
+id: mmn6ymvn3luzb
+exercise: Bench Press
 limit: 15
 ```
 
@@ -19,7 +26,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Shoulder Press
+exercise: Bench Press
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -32,7 +39,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Shoulder Press
+exercise: Bench Press
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -45,7 +52,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Shoulder Press
+exercise: Bench Press
 dateRange: 30
 limit: 50
 showTrendLine: false

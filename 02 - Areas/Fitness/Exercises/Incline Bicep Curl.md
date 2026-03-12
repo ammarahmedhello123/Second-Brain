@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Incline Bicep Curl
 
 ## Description

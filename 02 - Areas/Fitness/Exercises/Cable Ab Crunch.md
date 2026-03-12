@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Cable Ab Crunch
 
 ## Description

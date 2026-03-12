@@ -1,16 +1,22 @@
 ---
+exercise_name: Leg Press 45
 exercise_type: strength
+tags:
+  - legs
+  - quads
 ---
-# Shoulder Press
+
+# Leg Press 45
 
 ## Description
-Track your Shoulder Press performance over time. Log each set with weight and reps to monitor progression.
+
+Example description for Leg Press 45.
 
 ## Log
 
 ```workout-log
-id: c4357c6a9d98
-exercise: Shoulder Press
+id: mmn6ymwfsp7h1
+exercise: Leg Press 45
 limit: 15
 ```
 
@@ -19,7 +25,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Shoulder Press
+exercise: Leg Press 45
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -32,7 +38,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Shoulder Press
+exercise: Leg Press 45
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -45,7 +51,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Shoulder Press
+exercise: Leg Press 45
 dateRange: 30
 limit: 50
 showTrendLine: false

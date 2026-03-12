@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Hamstring Biased Leg Press
 
 ## Description

@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Leg Extension
 
 ## Description

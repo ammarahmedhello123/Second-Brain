@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Hanging Leg Raise
 
 ## Description

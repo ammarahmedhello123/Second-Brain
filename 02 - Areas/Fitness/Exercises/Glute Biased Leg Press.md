@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Glute Biased Leg Press
 
 ## Description

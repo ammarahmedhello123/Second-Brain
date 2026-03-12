@@ -1,16 +1,22 @@
 ---
+exercise_name: Squat Multi Power
 exercise_type: strength
+tags:
+  - legs
+  - quads
 ---
-# Shoulder Press
+
+# Squat Multi Power
 
 ## Description
-Track your Shoulder Press performance over time. Log each set with weight and reps to monitor progression.
+
+Example description for Squat Multi Power.
 
 ## Log
 
 ```workout-log
-id: c4357c6a9d98
-exercise: Shoulder Press
+id: mmn6ymw7urzzy
+exercise: Squat Multi Power
 limit: 15
 ```
 
@@ -19,7 +25,7 @@ limit: 15
 ```workout-chart
 chartType: exercise
 type: volume
-exercise: Shoulder Press
+exercise: Squat Multi Power
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -32,7 +38,7 @@ showStats: true
 ```workout-chart
 chartType: exercise
 type: weight
-exercise: Shoulder Press
+exercise: Squat Multi Power
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -45,7 +51,7 @@ showStats: false
 ```workout-chart
 chartType: exercise
 type: reps
-exercise: Shoulder Press
+exercise: Squat Multi Power
 dateRange: 30
 limit: 50
 showTrendLine: false

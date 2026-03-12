@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Reverse Pec Deck Fly
 
 ## Description

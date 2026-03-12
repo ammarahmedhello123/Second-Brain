@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Straight Bar Bicep Curl
 
 ## Description

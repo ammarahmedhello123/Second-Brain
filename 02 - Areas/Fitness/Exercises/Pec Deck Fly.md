@@ -1,3 +1,6 @@
+---
+exercise_type: strength
+---
 # Pec Deck Fly
 
 ## Description
