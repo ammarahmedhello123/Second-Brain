@@ -1,57 +1,54 @@
 /* ── Heatmap Calendar ────────────────────────────────── */
 
-/* Day cells */
 .heatmap-calendar-graph ul.heatmap-calendar-days li {
-    width: 16px !important;
-    height: 16px !important;
-    border-radius: 4px !important;
-    margin: 3px !important;
+    width: 28px !important;
+    height: 28px !important;
+    min-width: 28px !important;
+    min-height: 28px !important;
+    border-radius: 5px !important;
+    margin: 4px !important;
     border: none !important;
     box-shadow: none !important;
+    flex-shrink: 0 !important;
 }
 
-/* Empty cells */
 .heatmap-calendar-graph ul.heatmap-calendar-days li.isEmpty {
-    background-color: #242424 !important;
+    background-color: #262626 !important;
 }
 
-/* Filled cells */
 .heatmap-calendar-graph ul.heatmap-calendar-days li:not(.isEmpty) {
-    box-shadow: 0 0 8px rgba(255, 150, 50, 0.2) !important;
+    box-shadow: 0 0 10px rgba(255, 150, 50, 0.25) !important;
 }
 
-/* Hide emoji content */
 .heatmap-calendar-graph li .heatmap-calendar-content {
     display: none !important;
 }
 
-/* Month labels */
 .heatmap-calendar-graph ul.heatmap-calendar-months li {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
-    font-size: 10px !important;
-    letter-spacing: 0.08em !important;
-    opacity: 0.3 !important;
-    width: 19px !important;
+    font-size: 11px !important;
+    opacity: 0.35 !important;
+    width: 32px !important;
+    min-width: 32px !important;
     height: auto !important;
-    margin: 0 3px !important;
+    margin: 0 4px !important;
 }
 
-/* Day labels */
 .heatmap-calendar-graph ul.heatmap-calendar-weekdays li {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
-    font-size: 9px !important;
+    font-size: 10px !important;
     opacity: 0.3 !important;
-    width: auto !important;
-    height: 22px !important;
+    width: 30px !important;
+    height: 36px !important;
     margin: 0 !important;
-    line-height: 22px !important;
+    line-height: 36px !important;
 }
 
-/* Outer wrapper */
 .heatmap-calendar-graph {
-    padding: 20px 0 !important;
+    padding: 24px 0 !important;
+    overflow-x: auto !important;
 }
