@@ -17,7 +17,10 @@
   "repDuration": 5,
   "defaultRepsPerSet": 0,
   "showQuickLogRibbon": true,
-  "recentExercises": [],
+  "recentExercises": [
+    "Pec Deck Fly",
+    "Shoulder Press"
+  ],
   "quickWeightIncrement": 2.5,
   "weightUnit": "kg"
 }
