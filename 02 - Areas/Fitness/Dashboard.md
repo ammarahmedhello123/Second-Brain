@@ -1,11 +1,12 @@
-
-# 🏋️ My Gym Dashboard
-
-> _Track hard. Rest well. Grow._
+# 🏋️ Dashboard
 
 ---
 
-## 📊 Overall Progress
+## At a Glance
+
+---
+
+## Total Volume — Last 30 Days
 
 ```workout-chart
 chartType: all
@@ -19,263 +20,42 @@ showStats: true
 
 ---
 
-## 📅 This Week at a Glance
+## Weekly Split
+
+|Day|Session|
+|---|---|
+|Mon|Chest · Biceps · Shoulders|
+|Tue|Back · Triceps|
+|Wed|Legs · Abs|
+|Thu|😴 Rest|
+|Fri|Upper Body|
+|Sat|Lower Body · Abs|
+|Sun|😴 Rest|
 
 ---
 
-## 💪 Chest
+## Exercises
 
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Incline Bench Press
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
-```workout-chart
-chartType: exercise
-type: weight
-exercise: Pec Deck Fly
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
+**Chest** — [[Pec Deck Fly]] · [[Incline Bench Press]] **Biceps** — [[Straight Bar Bicep Curl]] · [[Incline Bicep Curl]] **Shoulders** — [[Shoulder Press]] · [[Lateral Raises]] · [[Reverse Pec Deck Fly]] **Back** — [[Lat Pulldown]] · [[Seated Chest Supported Row]] · [[T-Bar Row]] **Triceps** — [[Tricep Extension]] · [[Tricep Pushdown]] **Abs** — [[Cable Ab Crunch]] · [[Hanging Leg Raise]] **Quads** — [[Leg Extension]] · [[Squat]] **Hamstrings** — [[Reverse Hamstring Curl]] · [[Hamstring Biased Leg Press]] **Glutes** — [[Glute Biased Leg Press]]
 
 ---
 
-## 💪 Back
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Lat Pulldown
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
-```workout-chart
-chartType: exercise
-type: weight
-exercise: T-Bar Row
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
----
-
-## 💪 Shoulders
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Shoulder Press
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
-```workout-chart
-chartType: exercise
-type: weight
-exercise: Lateral Raises
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
----
-
-## 💪 Arms
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Straight Bar Bicep Curl
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Tricep Pushdown
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
----
-
-## 🦵 Legs
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Squat
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: true
-```
-
-```workout-chart
-chartType: exercise
-type: weight
-exercise: Hamstring Biased Leg Press
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
-```workout-chart
-chartType: exercise
-type: volume
-exercise: Glute Biased Leg Press
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
----
-
-## 🔥 Core & Abs
-
-```workout-chart
-chartType: exercise
-type: reps
-exercise: Hanging Leg Raise
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
-```workout-chart
-chartType: exercise
-type: weight
-exercise: Cable Ab Crunch
-dateRange: 30
-limit: 50
-showTrendLine: true
-showTrend: true
-showStats: false
-```
-
----
-
-## 📋 Recent Logs
-
-```workout-log
-id: c77bb3e8797f
-limit: 20
-```
-
----
-
-## ⏱️ Rest Timer
+## Rest Timer
 
 ```workout-timer
-id: 7b84f372211c
+id: 5823745c7d51
 duration: 90
 type: countdown
-exercise: Rest Period
+exercise: Rest
 showControls: true
 sound: true
 ```
 
 ---
 
-## ⚡ Quick Log
+## Recent Logs
 
-> Use `Ctrl/Cmd + P` → **Create Workout Log** to log a new set instantly.
-
----
-
-## 🗓️ My Weekly Split
-
-|Day|Focus|
-|---|---|
-|Monday|Chest · Biceps · Shoulders|
-|Tuesday|Back · Triceps|
-|Wednesday|Legs · Abs|
-|Thursday|😴 Rest|
-|Friday|Full Upper Body|
-|Saturday|Full Lower Body + Abs|
-|Sunday|😴 Rest|
-
----
-
-## 🔗 Exercise Notes
-
-### Chest
-
-- [[Pec Deck Fly]]
-- [[Incline Bench Press]]
-
-### Biceps
-
-- [[Straight Bar Bicep Curl]]
-- [[Incline Bicep Curl]]
-
-### Shoulders
-
-- [[Shoulder Press]]
-- [[Lateral Raises]]
-- [[Reverse Pec Deck Fly]]
-
-### Back
-
-- [[Lat Pulldown]]
-- [[Seated Chest Supported Row]]
-- [[T-Bar Row]]
-
-### Triceps
-
-- [[Tricep Extension]]
-- [[Tricep Pushdown]]
-
-### Abs & Core
-
-- [[Cable Ab Crunch]]
-- [[Hanging Leg Raise]]
-
-### Quads
-
-- [[Leg Extension]]
-- [[Squat]]
-
-### Hamstrings
-
-- [[Reverse Hamstring Curl]]
-- [[Hamstring Biased Leg Press]]
-
-### Glutes
-
-- [[Glute Biased Leg Press]]
+```workout-log
+id: ef595a518499
+limit: 10
+```
