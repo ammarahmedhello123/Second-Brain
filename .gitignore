@@ -1,0 +1,9 @@
+# Obsidian workspace files (cause conflicts)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/workspace-mobile.json
+
+# OS junk
+.DS_Store
+.trash
+
