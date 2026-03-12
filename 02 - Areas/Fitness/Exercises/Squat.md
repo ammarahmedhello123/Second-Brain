@@ -3,7 +3,6 @@ tags:
   - quads
   - glutes
   - hamstrings
-  - core
 ---
 # Squat
 
