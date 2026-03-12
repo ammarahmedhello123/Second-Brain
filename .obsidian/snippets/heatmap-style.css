@@ -1,0 +1,47 @@
+/* Heatmap Calendar - Bigger & More Aesthetic */
+
+.heatmap-calendar-graph {
+    padding: 16px 0;
+}
+
+/* Bigger cells */
+.heatmap-calendar-graph td {
+    width: 14px !important;
+    height: 14px !important;
+    border-radius: 3px !important;
+}
+
+/* More spacing between cells */
+.heatmap-calendar-graph td.heatmap-calendar-day {
+    margin: 2px !important;
+}
+
+/* Month labels styling */
+.heatmap-calendar-graph .heatmap-calendar-month-label {
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    opacity: 0.6;
+    text-transform: uppercase;
+}
+
+/* Day labels styling */
+.heatmap-calendar-graph .heatmap-calendar-day-label {
+    font-size: 10px;
+    opacity: 0.5;
+    padding-right: 6px;
+}
+
+/* Title styling */
+.heatmap-calendar-graph .heatmap-calendar-title {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    margin-bottom: 12px;
+}
+
+/* Empty cells - darker base */
+.heatmap-calendar-graph td.heatmap-calendar-day.isEmpty {
+    background-color: #1a1a1a !important;
+}
