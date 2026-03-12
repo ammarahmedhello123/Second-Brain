@@ -1,14 +1,14 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2026-03-12
 tags: daily/workout
 cssclasses:
-  - <% tp.date.now("dddd").toLowerCase() %>
+  - thursday
 ---
 
-# 🏋️ Workout: <% tp.date.now("dddd, MMMM Do · YYYY") %>
+# 🏋️ Workout: Thursday, March 12th · 2026
 
 ## 📊 Session Overview
-🗓 **Day**:: <% tp.date.now("dddd") %>
+🗓 **Day**:: Thursday
 🏋️ **Split**:: 
 ⏱ **Duration**::  min
 ⚖️ **Bodyweight**::  kg
