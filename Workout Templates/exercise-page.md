@@ -17,9 +17,8 @@ Type:
 -
 
 # Performance Log
-**
+
 ```workout-log
-id: mmm70b4c3c533
 exercise: name
 ```
 
