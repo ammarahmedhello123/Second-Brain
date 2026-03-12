@@ -16,7 +16,7 @@ Example description for Squat.
 ## Log
 
 ```workout-log
-id: mmn6ymvqv4lgs
+id: mmn95v5do2dt3
 exercise: Squat
 limit: 15
 ```

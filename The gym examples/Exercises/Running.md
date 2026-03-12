@@ -15,7 +15,7 @@ Example description for Running.
 ## Log
 
 ```workout-log
-id: mmn6ymvugqil2
+id: mmn95v5f7wvem
 exercise: Running
 limit: 15
 ```

@@ -16,7 +16,7 @@ Example description for Bench Press.
 ## Log
 
 ```workout-log
-id: mmn6ymvn3luzb
+id: mmn95v5ai1e53
 exercise: Bench Press
 limit: 15
 ```

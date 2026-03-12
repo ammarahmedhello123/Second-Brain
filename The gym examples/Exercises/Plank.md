@@ -15,7 +15,7 @@ Example description for Plank.
 ## Log
 
 ```workout-log
-id: mmn6ymvxbukvx
+id: mmn95v5hymp8f
 exercise: Plank
 limit: 15
 ```

@@ -15,7 +15,7 @@ Example description for Squat Multi Power.
 ## Log
 
 ```workout-log
-id: mmn6ymw7urzzy
+id: mmn95v5l46yt6
 exercise: Squat Multi Power
 limit: 15
 ```

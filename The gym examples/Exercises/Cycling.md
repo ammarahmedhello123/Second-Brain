@@ -1,32 +1,31 @@
 ---
-exercise_name: RDL
-exercise_type: strength
+exercise_name: Cycling
+exercise_type: distance
 tags:
+  - cardio
   - legs
-  - hamstrings
-  - glutes
 ---
 
-# RDL
+# Cycling
 
 ## Description
 
-Example description for RDL.
+Example description for Cycling.
 
 ## Log
 
 ```workout-log
-id: mmn95v5qw8bf5
-exercise: RDL
+id: mmn95v5jkhrb2
+exercise: Cycling
 limit: 15
 ```
 
-## Volume Chart
+## Distance Chart
 
 ```workout-chart
 chartType: exercise
-type: volume
-exercise: RDL
+type: distance
+exercise: Cycling
 dateRange: 30
 limit: 50
 showTrendLine: true
@@ -34,28 +33,30 @@ showTrend: true
 showStats: true
 ```
 
-## Weight Progression
+## Duration
 
 ```workout-chart
 chartType: exercise
-type: weight
-exercise: RDL
+type: duration
+exercise: Cycling
 dateRange: 30
 limit: 50
 showTrendLine: true
 showTrend: true
-showStats: false
+showStats: true
 ```
 
-## Rep Tracking
+## Pace Tracking
+
+Track your pace improvement (lower = faster):
 
 ```workout-chart
 chartType: exercise
-type: reps
-exercise: RDL
+type: pace
+exercise: Cycling
 dateRange: 30
 limit: 50
-showTrendLine: false
+showTrendLine: true
 showTrend: true
-showStats: false
+showStats: true
 ```

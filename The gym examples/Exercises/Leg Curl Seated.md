@@ -15,7 +15,7 @@ Example description for Leg Curl Seated.
 ## Log
 
 ```workout-log
-id: mmn6ymwip04g2
+id: mmn95v5yr0km8
 exercise: Leg Curl Seated
 limit: 15
 ```

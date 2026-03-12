@@ -15,7 +15,7 @@ Example description for Leg Press 45.
 ## Log
 
 ```workout-log
-id: mmn6ymwfsp7h1
+id: mmn95v5v52aat
 exercise: Leg Press 45
 limit: 15
 ```

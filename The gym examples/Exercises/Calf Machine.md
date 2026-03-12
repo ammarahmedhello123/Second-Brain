@@ -15,7 +15,7 @@ Example description for Calf Machine.
 ## Log
 
 ```workout-log
-id: mmn6ymwkrlwgc
+id: mmn95v60ys3yu
 exercise: Calf Machine
 limit: 15
 ```

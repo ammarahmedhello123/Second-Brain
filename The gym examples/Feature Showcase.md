@@ -2,7 +2,7 @@
 
 Complete reference of all code block types available in the Workout Plugin.
 
-> **Tip**: For your personal dashboard, see [[The gym examples/Dashboard]]
+> **Tip**: For your personal dashboard, see [[Dashboard]]
 
 ---
 
@@ -105,7 +105,7 @@ Tables display your workout logs with sorting and editing capabilities.
 ### By Exercise
 
 ```workout-log
-id: mmn6ymwwrtsr1
+id: mmn95v6dyy0go
 exercise: Bench Press
 limit: 10
 ```
@@ -113,7 +113,7 @@ limit: 10
 ### By Workout
 
 ```workout-log
-id: mmn6ymwwed79e
+id: mmn95v6da3wcx
 workout: Day 1 LOWER BODY A 2.0
 limit: 15
 ```
@@ -121,7 +121,7 @@ limit: 15
 ### Combined (Exercise + Workout)
 
 ```workout-log
-id: mmn6ymwwzhygw
+id: mmn95v6dkjdk0
 exercise: Squat multi power
 workout: Day 1 LOWER BODY A 2.0
 limit: 10
@@ -135,7 +135,7 @@ exactMatch: true
 ### Countdown Timer
 
 ```workout-timer
-id: mmn7141mik9np
+id: mmn974x4zo46b
 duration: 90
 type: countdown
 exercise: Rest Timer
@@ -146,7 +146,7 @@ sound: true
 ### Interval Timer
 
 ```workout-timer
-id: mmn7141mz80h9
+id: mmn974x4g7ifw
 duration: 30
 rounds: 5
 type: interval
