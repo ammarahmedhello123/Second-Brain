@@ -79,6 +79,12 @@
         "icon": "BoBxDumbbell",
         "for": "everything",
         "order": 11
+      },
+      {
+        "rule": "Learn HTML.*",
+        "icon": "BoBxlHtml5",
+        "for": "everything",
+        "order": 12
       }
     ],
     "extraMargin": {
@@ -96,5 +102,9 @@
   "02 - Areas/Fitness": {
     "iconName": null,
     "inheritanceIcon": "BoBxDumbbell"
+  },
+  "01 - Projects/Learn HTML": {
+    "iconName": null,
+    "inheritanceIcon": "BoBxlHtml5"
   }
 }
