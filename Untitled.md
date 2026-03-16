@@ -1,0 +1,1 @@
+git clone --bare --depth 1 https://github.com/dusklinux/dusky.git $HOME/dusky
